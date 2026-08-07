@@ -1,4 +1,4 @@
-# Microsoft 365 / Outlook Exchange Online Helpdesk Ticket Lab
+# Microsoft 365 / Outlook and Exchange Online Troubleshooting Lab
 
 Ten simulated Tier 1 support tickets worked end to end in a live Microsoft 365 tenant. Each one covers a request or fault I'd expect to see on a service desk queue: shared mailbox access, calendar delegation, distribution lists, missing mail, quarantine, onboarding, forwarding, and Outlook client issues.
 
